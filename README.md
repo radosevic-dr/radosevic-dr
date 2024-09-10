@@ -7,8 +7,8 @@ I'm a passionate learner and practitioner at the intersection of **Full Stack De
 - **Love to Work With:** ReactJS, NextJS, Astro, Angular (*still learning 🤫*), Sanity
 - **Currently Learning:** PHP, Laravel, SQL (with a focus on MySQL and PostgreSQL)
 - **Familiar With:** Python (*though I could use a quick refresher*)
-- **Interests:** Full Stack Development, Ethical Hacking, Knitting (*I'm joking with you 🤣*)
-- **Invested time to get familiar with and unfortunately never used:** Django, Go, C++, 
+- **Interests:** Full Stack Development, Ethical Hacking, Knitting (*I'm joking about knitting 🤣*)
+- **Invested time to get familiar with and unfortunately never used: **Django, Go, C++, ...** 
 
 ## 🌱 I’m currently learning ...
 I'm on a journey to deepen my understanding of backend technologies, specifically PHP and SQL. My goal is to become proficient in creating secure and efficient database-driven applications.
